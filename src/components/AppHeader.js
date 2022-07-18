@@ -37,7 +37,9 @@ class AppHeader extends React.Component {
         <div className="container">
           <div className="flex items-center justify-between relative">
             <div className="px-4">
-              <a href="#home" className="font-bold text-lg text-primary block py-6">virgiawan</a>
+              <a href="#home" className="font-bold text-lg text-primary block py-6">
+                <img src="/img/logo graphic + typeface.png" alt="Logo Digidaxa" className="h-8"/>
+              </a>
             </div>
             <div className="flex items-center justify-center px-4">
               <HamburgerButton 

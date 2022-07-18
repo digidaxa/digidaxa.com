@@ -1,17 +1,17 @@
 import AppHeader from './AppHeader';
-import AppHero from './AppHero';
-import AppAbout from './AppAbout';
-import AppPortfolio from './AppPortfolio';
-import AppClients from './AppClients';
+// import AppHero from './AppHero';
+// import AppAbout from './AppAbout';
+// import AppPortfolio from './AppPortfolio';
+// import AppClients from './AppClients';
 
 function App() {
   return (
     <>
       <AppHeader/>
-      <AppHero/>
-      <AppAbout/>
+      {/* <AppHero/> */}
+      {/* <AppAbout/>
       <AppPortfolio/>
-      <AppClients/>
+      <AppClients/> */}
     </>
   );
 }
